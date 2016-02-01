@@ -1,0 +1,18 @@
+{
+    "name": "suramon/php-token-enricher",
+    "description": "Enrich data from the PHP tokenizer. Let's you work with the tokens more easily",
+    "require-dev": {
+        "phpunit/phpunit": "5.1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpTokenEnricher\\": "src/PhpTokenEnricher"
+        }
+    },
+    "authors": [
+        {
+            "name": "matthias",
+            "email": "matthias@icontroller.be"
+        }
+    ]
+}
